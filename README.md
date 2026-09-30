@@ -12,6 +12,12 @@ them from here.
 | `04-secrets` | Right-click → Inject secrets, rendered straight to the clipboard |
 | `05-keyboard` | Keyboard overlay and page switching |
 | `06-composite` | 2 × 2 and 2 + 4 composite tiles |
+| `07-mcp` | Claude builds a page over MCP; deletion is refused |
+| `08-favorites` | The favourites grid, moving a tile over, back to shortcuts |
+| `09-theme-language` | Theme switch, then French and 1337, without a restart |
+| `10-updates` | Check, download, close blocking apps, restart |
+| `11-context-menu` | Predefined shortcuts, then a folder right-click in Explorer |
+| `12-explorer-drop` | A folder and a `.url` file dropped from Explorer become tiles |
 
 Each clip exists in `light` and `dark`, as an MP4 (1920 × 1080, 60 fps, 10 s) and a GIF
 (960 × 540, 20 fps) for the README. Demo data only.
