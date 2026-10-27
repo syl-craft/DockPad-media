@@ -20,6 +20,7 @@ them from here.
 | `12-explorer-drop` | A folder and a `.url` file dropped from Explorer become tiles |
 | `13-github-sync` | A `.vault` file compared with GitHub, then sent to GitHub Actions |
 | `14-terminals` | The Terminals window, then one Windows Terminal window and tab colour per project |
+| `15-stream-dock` | 30-second Stream Dock presentation: pages on the keys, two-way sync, AI quotas on the side screens (dark, `en` and `fr`, MP4 and poster only) |
 
 Each clip exists in `light` and `dark`, as an MP4 (1920 × 1080, 60 fps, 10 s) and a GIF
 (960 × 540, 20 fps) for the README. Demo data only.
